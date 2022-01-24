@@ -3,4 +3,4 @@ This repository contains code and data for Mesaglio, T, Callaghan, CT, Samonte, 
 
 The code in the R file 'figure1' covers the creation of Figure 1, WebFigure 2 and WebFigure 4.
 
-In the Data folder, the zipped CSV 'granddata' contains all 524,606 rows of data exported from iNaturalist, and the CSVs 'id_through_time', 'id_through_time_dutch' and 'id_through_time_taiwan' are the files referred to in the R file 'figure1'.
+In the Data folder, the zipped CSV 'newgrand' contains all 1,013,171 rows of data exported from iNaturalist, and the CSVs 'id_through_time', 'id_through_time_dutch' and 'id_through_time_taiwan' are the files referred to in the R file 'figure1'.
