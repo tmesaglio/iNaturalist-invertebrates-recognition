@@ -1,5 +1,5 @@
 # iNaturalist-invertebrates-recognition
-This repository contains code and data for Mesaglio, T, Callaghan, CT, Samonte, F, Gorta SBZ and Cornwell WK 'Recognition and completeness of terrestrial invertebrates from iNaturalist photographs, with implications for research and conservation' (in review).
+This repository contains code and data for Mesaglio, T, Callaghan, CT, Samonte, F, Gorta SBZ and Cornwell WK 'Recognition and completeness: two key metrics for judging the utility of citizen science data ' (in review).
 
 The code in the R file 'figure1 inverts' covers the creation of Figure 1.
 
